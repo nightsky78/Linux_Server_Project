@@ -29,3 +29,12 @@ Udacity FSND project to configure linux server and host web application
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps very closely in order to get this done. If you do not do this properly the app does not find the modules. 
 
 
+3. Setup Postgresql
+
+3.1 install postgresql with apt-get
+
+3.2 create databases requiered for the catalog project and added some data.
+
+3.3 created a new user with access catalog, granted select rights to the catalog user.
+
+3.4 Checked that access to DB is not possible from outside the linux server (localhost)
