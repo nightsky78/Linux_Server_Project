@@ -6,7 +6,7 @@ Udacity FSND project to configure linux server and host web application
 
 1. Create the lightsail server instance and basic configuration:
 
-1.1 Public IP adress is: 52.199.137.66
+1.1 Public IP adress is: xxxx
 
 1.2 The standard user is ubuntu, so I create a new custom user and add it as sudoer to work with.
 
